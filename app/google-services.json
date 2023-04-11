@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236516418075",
+    "project_id": "maps-d4510",
+    "storage_bucket": "maps-d4510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236516418075:android:fe804581e2eb2824788ebe",
+        "android_client_info": {
+          "package_name": "com.razi.gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236516418075-gefu938vsrmkck55njtcraakihao9tjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.razi.gallery",
+            "certificate_hash": "a2ff4b03388e3d18a228501f7ff66222929405f8"
+          }
+        },
+        {
+          "client_id": "236516418075-670u53snj6qhpdhqca23bdp2kosbiqhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nAcAi-npXJDftua6MektCIeOGj474gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236516418075-670u53snj6qhpdhqca23bdp2kosbiqhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
